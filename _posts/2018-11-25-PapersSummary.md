@@ -25,7 +25,6 @@ date: 2018-11-25
     <p><b>Paper: </b><a href="https://arxiv.org/abs/1811.04645"> Hallucinating low-resolution face images </a>
       <br>
       <b>Summary: </b> When images are low-resolution, very tiny and contaminated by large occlusions, it helps to reconstruct the image, and then perform face recognition task. Celeb dataset is used by the authors to publish their results.
-
     </body>
 </html>
       
