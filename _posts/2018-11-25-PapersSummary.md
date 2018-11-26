@@ -1,7 +1,15 @@
 ---
 layout: post
-title: "Arun, Summary of papers in Face recognition"
+title: "Summary of papers in Face recognition"
 date: 2018-11-25
 ---
 
-Papers of 2017-2018 in the area of Face recognition.
+<html>
+  <body>
+    <p><a href="https://www.geeksforgeeks.org/working-zip-files-python/" </a>
+    </p>
+    Summary: The link talks about working with zip files in python.
+  </body>
+</html>
+      
+  
