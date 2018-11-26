@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Summary of papers in Face recognition"
 date: 2018-11-25
 ---
