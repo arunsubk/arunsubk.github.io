@@ -18,6 +18,11 @@ date: 2018-11-25
     <br>
     <p><b>Paper: </b><a href="https://arxiv.org/abs/1811.08345"> LGLG-WPCA: An Effective Texture-based Method for Face Recognition</a></p>
       <b>Summary: </b>Using Learning Gabor Log-Euclidean Gaussian, called LGLG-WPCA for feature extraction of face images in 'adverse conditions' such as uneven illumination, varying poses and skin aging. As per author, since the space of Gaussian is a Reimannian manifold, he is employing LGLG to map in a linear space and further using Whitening PCA for feature reduction.
+    <br>
+    <br>
+    <p><b>Paper: </b><a href="https://arxiv.org/pdf/1811.07753.pdf">Contextual face-recognition with a nested-hierarchial non-parametric model</a></p>
+    <b>Summary: </b> Leveraging the 'context' of the subject's presence to aid face recognition. No experimental proof. But the model of features and labels is given.
+    
   </body>
 </html>
       
