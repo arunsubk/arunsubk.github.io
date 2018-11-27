@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Summary of papers read by me, in Face recognition"
+title: "Summary of papers I read, in Face recognition"
 date: 2018-11-25
 ---
 
